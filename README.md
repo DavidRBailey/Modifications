@@ -1,2 +1,2 @@
 # Modifications
-Universal mod manager
+Universal modification ("mod") manager
